@@ -109,6 +109,24 @@ On the navigation bar the returning visitor can find the "Contact" Page. Here th
 ## Further Testing
 - Friends and family members were asked to review the site and documentation to point out any bugs and user experience issues.
 
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| `Navbar` |
+|  |  |  |  |  |
+| Navbar Items | When clicked the user will be directed to the page of choice. | Clicked Navbar Items | Directed to the right page. | Pass |
+| Icons | When clicked the user will be redirected to the social media page.| Clicked link | Redirected to the social media page. | Pass |
+| Book Item | When clicked the user will be redirected to the Blurb website. | Clicked link | Redirected to the Blurb wesite. | Pass |
+| `Gallery Page` |
+| Photos | Photos can be clicked to see photos in larger size | Clicked Photo | Saw Photos in larger size | Pass |
+| `About Page` |
+| | | | | | |
+| About Text | The Page will be a simple text without links | Check About Page | The Page is a simple text without links | Pass |
+| `Contact Page` |
+|   |   |   |   |  |
+| Form | Once filled in the form by pressing Send Message the user will see a Code Institute Message | Filled in the form | Saw a Code Institute Message | Pass |
+ - - -
+
 ## Known Bugs
 <img src="assets/images/readme/navbar-tablet.jpg" width=800 height=200>
 <img src="assets/images/readme/navbar-phone.jpg" width=600 height=300>
