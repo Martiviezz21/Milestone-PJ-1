@@ -86,7 +86,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 <img src="assets/images/readme/css.jpg" width=500 height=40>
 
-The https://responsivedesignchecker.com/ website was used to check the responsiveness of the website, that seems to respond nicely in varius devices.
+The https://responsivedesignchecker.com/ website and the Chrome Developer Tolls were used to check the responsiveness of the website, that seems to respond nicely in varius devices.
 
 ## Testing User Stories from UX section
 ### - First time visitor Goals
@@ -109,6 +109,7 @@ On the navigation bar the returning visitor can find the "Contact" Page. Here th
 ## Further Testing
 - Friends and family members were asked to review the site and documentation to point out any bugs and user experience issues.
 
+### Manual Testing
 
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
@@ -138,9 +139,9 @@ I have used display property flex for the header. I've been looking for a soluti
 
 On the gallery.html I have change the section element with a div as suggested from W3C Marckup Validator.
 
-## Fixed Bugs
+## Solved Bugs
 
-The Favicon was not showing up and I fix the problem y changing the file name.
+The Favicon was not showing up and I fixed the problem by changing the file's name.
 
 ## Deployment
 I used GitHub to deploy this website. The steps to deploy it are the following:
