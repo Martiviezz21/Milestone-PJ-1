@@ -25,3 +25,18 @@ My client and I had discussed thoroughly the look  and the purpose of the websit
     1. As a Frequent User, I want to find easily the Gallery Page to see if there are any new works.
     2. As a Frequent User, I want to find community links to follow his work-life. 
 
+
+### Wireframes
+<img src="assets/images/readme/desktop-home.jpg" width=600 height=400>
+<img src="assets/images/readme/descktop-gallery.jpg" width=600 height=400>
+<img src="assets/images/readme/descktop-about.jpg" width=600 height=400>
+
+<img src="assets/images/readme/phonr-home.jpg" width=400 height=600>
+<img src="assets/images/readme/phone-gallery.jpg" width=400 height=600>
+
+## Feature
+- Responsive to three device sizes as per the project's requirement.
+- Interactive elements.
+- The Books page is a direct link to the blurb website.
+
+
