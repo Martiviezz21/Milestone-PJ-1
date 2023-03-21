@@ -120,6 +120,10 @@ I have used display property flex for the header. I've been looking for a soluti
 
 On the gallery.html I have change the section element with a div as suggested from W3C Marckup Validator.
 
+## Fixed Bugs
+
+The Favicon was not showing up and I fix the problem y changing the file name.
+
 ## Deployment
 I used GitHub to deploy this website. The steps to deploy it are the following:
 1. GitHub Repository
