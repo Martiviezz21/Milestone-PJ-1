@@ -145,9 +145,9 @@ The Favicon was not showing up and I fixed the problem by changing the file's na
 
 ## Deployment
 I used GitHub to deploy this website. The steps to deploy it are the following:
-1. GitHub Repository
-2. Setting
-3. GitHub Pages
+1. Log in to GitHub and locate GitHub Repository
+2. Locate the Setting button
+3. Scroll down untill you find GitHub Pages
 4. Under "Source" click the dropdown called "None" and chose "main branch".
 5. The page will refresh on its own
 6. Scroll down through the page to locate the now-publish site link in the "GitHub Pages" section.
