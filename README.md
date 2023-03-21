@@ -39,4 +39,26 @@ My client and I had discussed thoroughly the look  and the purpose of the websit
 - Interactive elements.
 - The Books page is a direct link to the blurb website.
 
+### - Navigation bar and Home page
+<img src="assets/images/readme/home.jpg" width=200 height=600>
+
+- Featured on all the pages, the navigation bar includes links to Home, Gallery, About, and Contact pages. It also includes icons for Linkedin, Instagram, and Tumblr. It is identical on each page for easy navigation.
+- This section will allow the user to navigate easily through the website from one page to another.
+- The Home Page introduces the user to Stefano Photography with an interesting full-screen background photograph.
+
+### - Gallery
+<img src="assets/images/readme/gallery.jpg" width=300 height=600>
+
+- The Gallery is showing some of the Photographer's works. This section will expand every time new pictures are  uploaded.
+- The user will see what kind of works the Photographer does.
+
+### - About
+<img src="assets/images/readme/about.jpg" width=300 height=600>
+
+- The About page is for the user to know the Photographer.It consists in a small interview to the Photographer and also his exhibitions.
+
+### - Contact
+<img src="assets/images/readme/contact.jpg" width=400 height=700>
+
+- The Contact page is for the user to get in touch with the Photographer if they want to work together or hire him.
 
