@@ -109,3 +109,35 @@ On the navigation bar the returning visitor can find the "Contact" Page. Here th
 ## Further Testing
 - Friends and family members were asked to review the site and documentation to point out any bugs and user experience issues.
 
+## Known Bugs
+<img src="assets/images/readme/navbar-tablet.jpg" width=800 height=200>
+<img src="assets/images/readme/navbar-phone.jpg" width=600 height=300>
+
+On the Tablet screen, the Brand-title is not aligned with the navbar.
+On the Phone screen, the header is not centered.
+
+I have used display property flex for the header. I've been looking for a solution several times but couldn't find it. 
+
+On the gallery.html I have change the section element with a div as suggested from W3C Marckup Validator.
+
+## Deployment
+I used GitHub to deploy this website. The steps to deploy it are the following:
+1. GitHub Repository
+2. Setting
+3. GitHub Pages
+4. Under "Source" click the dropdown called "None" and chose "main branch".
+5. The page will refresh on its own
+6. Scroll down through the page to locate the now-publish site link in the "GitHub Pages" section.
+
+The live link can be found here ABCDEFGHI
+## Credits
+- Bootstrap4: Bootstrap library was used on the form.
+## Content
+- All content was written by the developer with client supervision.
+## Media
+- All Images were obtained from my client.
+## Acknowledgements
+- My Mentor Jubril for his feedback.
+- Tutor support at Code Institute for their help.
+- The client for providing the picture.
+
