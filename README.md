@@ -86,7 +86,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 <img src="assets/images/readme/css.jpg" width=500 height=40>
 
-The https://responsivedesignchecker.com/ website and the Chrome Developer Tolls were used to check the responsiveness of the website, that seems to respond nicely in varius devices.
+The https://responsivedesignchecker.com/ website and the Chrome Developer Tools were used to check the responsiveness of the website, that seems to respond nicely in varius devices.
 
 ## Testing User Stories from UX section
 ### - First time visitor Goals
@@ -125,19 +125,24 @@ On the navigation bar the returning visitor can find the "Contact" Page. Here th
 | About Text | The Page will be a simple text without links | Check About Page | The Page is a simple text without links | Pass |
 | `Contact Page` |
 |   |   |   |   |  |
-| Form | Once filled in the form by pressing Send Message the user will see a Code Institute Message | Filled in the form | Saw a Code Institute Message | Pass |
+| Form Submission | Once filled out the form by pressing Send Message the user will see a Code Institute Message | Filled in the form | Saw the page The site can't be reached | Fail |
+| Form fields | If  one or more fields remian blank a message will appear after pressing the Send Message Button | Left one or more fields blank | Message appeared after pressing the Send Message Button | Pass |
  - - -
 
 ## Known Bugs
 <img src="assets/images/readme/navbar-tablet.jpg" width=800 height=200>
 <img src="assets/images/readme/navbar-phone.jpg" width=600 height=300>
 
-On the Tablet screen, the Brand-title is not aligned with the navbar.
-On the Phone screen, the header is not centered.
+- On the Tablet screen, the Brand-title is not aligned with the navbar.
+- On the Phone screen, the header is not centered.
 
 I have used display property flex for the header. I've been looking for a solution several times but couldn't find it. 
 
-On the gallery.html I have change the section element with a div as suggested from W3C Marckup Validator.
+<img src="assets/images/error-page.png" width=600 height=300>
+
+- As mention in the table above, the Form Submission is not working as it's suppose to do. After pushing the Send Message Button the user should be redirect to Code Institute Congratulation Page, but instead it is showing and error page.
+
+- On the gallery.html I have change the section element with a div as suggested from W3C Marckup Validator.
 
 ## Solved Bugs
 
