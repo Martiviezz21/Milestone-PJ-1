@@ -25,7 +25,6 @@ My client and I had discussed thoroughly the look  and the purpose of the websit
     1. As a Frequent User, I want to find easily the Gallery Page to see if there are any new works.
     2. As a Frequent User, I want to find community links to follow his work-life. 
 
-
 ### Wireframes
 <img src="assets/images/readme/desktop-home.jpg" width=600 height=400>
 <img src="assets/images/readme/descktop-gallery.jpg" width=600 height=400>
@@ -140,7 +139,7 @@ I have used display property flex for the header. I've been looking for a soluti
 
 <img src="assets/images/error-page.png" width=600 height=300>
 
-- As mention in the table above, the Form Submission is not working as it's suppose to do. After pushing the Send Message Button the user should be redirect to Code Institute Congratulation Page, but instead it is showing and error page.
+- As mention in the table above, the Form Submission is not working as it's suppose to do. After pushing the Send Message Button the user should be redirect to Code Institute Congratulation Page, but instead it is showing and error page. This was working in my previus submission of the project, so I am confused and I don't undestand why is not working anymore.
 
 - On the gallery.html I have change the section element with a div as suggested from W3C Marckup Validator.
 
